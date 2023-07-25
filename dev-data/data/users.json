@@ -1,0 +1,20 @@
+[
+    {
+        "_id": "57fdebe2-2a0a-42c5-aa6a-d61dec6e4dc9",
+        "name": "Test 1",
+        "email": "test1@gmail.com",
+        "role": "admin",
+        "active": true,
+        "photo": "user-1.jpg",
+        "password": "$2a$10$FYliMOiAwnGWxqJ7H0SNRuL1vPO0JJdj4OO3gq0qwTboL4FTrwW6K"
+    },
+    {
+        "_id": "7d4fc089-d736-43f1-bb36-f2b3bad18c2d",
+        "name": "Test 2",
+        "email": "test2@gmail.com",
+        "role": "admin",
+        "active": true,
+        "photo": "user-2.jpg",
+        "password": "$2a$10$Y1GI5vMmTo4JNbqbBX3CCu7m8wPnYCKmx9WTQbhpFFAzX9LD4t8oG"
+    }
+]
